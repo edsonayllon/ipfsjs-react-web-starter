@@ -8,7 +8,7 @@ status: complete
 twitter: https://twitter.com/relativeread
 ---
 
-## Starter 5-2019
+## Starter 6-2019
 
 # ipfsjs react web starter
 
